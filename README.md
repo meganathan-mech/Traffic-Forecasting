@@ -43,7 +43,7 @@ Dataset source: Provided in project files.
 ### Actual vs Predicted (Test Data)  
 Shows that predicted traffic closely follows real traffic trends.
 
-![Actual vs Predicted](plots/baseline.png)
+![Actual vs Predicted](baseline_actual_vs_pred.png)
 
 ### Next 24-Hour Forecast  
 Model forecasting future hourly volume using latest data window.
