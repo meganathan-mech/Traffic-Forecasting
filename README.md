@@ -48,7 +48,7 @@ Shows that predicted traffic closely follows real traffic trends.
 ### Next 24-Hour Forecast  
 Model forecasting future hourly volume using latest data window.
 
-![24-Hr Forecast](plots/prediction_plot.png)
+![24-Hr Forecast](prediction_plot.png)
 
 
 ## How to Run the Project
