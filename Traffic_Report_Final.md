@@ -79,21 +79,27 @@ Attention model improves interpretability and efficiency but still requires tuni
 
 ## Project Structure
 
-Traffic_Forecasting_Submission/
-├─ Traffic_Forecasting.ipynb
-├─ Metro_Interstate_Traffic_Volume.csv
-├─ scaler.save
-├─ models/
-├─ results/
-├─ plots/
-├─ docs/
-│ ├─ REPORT.md ← This file
-├─ Traffic_Forecasting_Submission.zip
-├─ README.md
-
+/Metro_Interstate_Traffic_Volume.csv
+/README.md
+/Traffic_Forecasting.ipynb
+/Traffic_Report_Final.md
+/attention_heatmap.png
+/attention_metrics.csv
+/attention_model.keras
+/baseline.png
+/baseline_actual_vs_pred.png
+/baseline_lstm.keras
+/baseline_metrics.csv
+/comparison_metrics.csv
+/comparison_plot.png
+/requirements.txt
+/scaler.save
+/summary.md
 
 ---
 
 ## Overall Conclusion
 
 This project successfully applies LSTM and Attention-based Bi-LSTM methods for intelligent traffic forecasting, delivering strong predictive performance and interpretability.
+
+---
